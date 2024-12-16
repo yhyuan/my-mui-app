@@ -13,6 +13,8 @@ import {
   ChevronRight as ChevronRightIcon
 } from '@mui/icons-material';
 import type { Settings } from 'react-slick';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 // Interfaces
 interface ImageSlide {
